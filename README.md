@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey there, I'm OBEN BRANDON ASHU
 
-<!--
-**Brandinho12/Brandinho12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring DevOps & Cloud Engineer** · Tech Explorer · Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a third-year university student in web development, now making the big leap into **DevOps & Cloud Engineering**.  
+My background in building web projects (like GlamourHub) gave me a foundation in coding, but I’m now focused on the tools and systems that keep applications running smoothly — **Linux, automation, containers, CI/CD, and cloud infrastructure**.
+
+I believe in learning by doing, so my GitHub is a mix of:
+- **Labs**: hands-on practice with Docker, Kubernetes, Terraform, and CI/CD.
+- **Notes**: everything I’m learning about Linux, networking, scripting, and cloud.
+- **Projects**: small tools, automation scripts, and experiments.
+
+---
+
+## 📍 My Current Learning Roadmap
+- ✅ **Linux essentials** – navigation, permissions, processes, networking basics
+- ✅ **Bash scripting** – automating repetitive tasks
+- 🔄 **Docker** – building and running containers
+- 🔄 **Kubernetes** – orchestration basics
+- 🔄 **CI/CD pipelines** – GitHub Actions, Jenkins
+- ⬜ **Terraform & Cloud** – AWS/Azure deployments
+
+---
+
+## 📌 Featured Projects
+- [**linux-essentials**](#) — my Linux commands, notes, and mini-labs  
+- [**bash-automation**](#) — scripts that make life easier  
+- [**docker-kubernetes-labs**](#) — Dockerfiles, Compose files, and k8s manifests  
+- [**ci-cd-pipelines**](#) — simple pipelines for automated testing & deployment  
+- [**glamourhub**](#) — past web app project, proof of my dev roots  
+
+---
+
+## 📫 Get in Touch
+- **Email:** brandinhoel@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile]
+
+> 💡 “Every expert was once a beginner — I’m just making sure I’m the beginner who doesn’t stop.”
