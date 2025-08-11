@@ -30,12 +30,12 @@ I believe in learning by doing, so my GitHub is a mix of:
 - [**bash-automation**](#) — scripts that make life easier  
 - [**docker-kubernetes-labs**](#) — Dockerfiles, Compose files, and k8s manifests  
 - [**ci-cd-pipelines**](#) — simple pipelines for automated testing & deployment  
-- [**glamourhub**](#) — past web app project, proof of my dev roots  
+- [**glamourhub**](https://github.com/Brandinho12/GLAMOURHUB) — past web app project, proof of my dev roots  
 
 ---
 
 ## 📫 Get in Touch
 - **Email:** brandinhoel@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile]
+- **LinkedIn:** [https://www.linkedin.com/in/oben-brandon?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 > 💡 “Every expert was once a beginner — I’m just making sure I’m the beginner who doesn’t stop.”
