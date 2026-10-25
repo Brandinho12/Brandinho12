@@ -1,4 +1,4 @@
-# Hi, I'm Brandon Ashu 👋
+# Hi, I'm Oben Brandon Ashu 👋
 
 ### Aspiring Cloud Security Engineer | Cybersecurity Graduate
 
